@@ -1,6 +1,6 @@
 # PODD: Pareto-Optimized Dual-Teacher Distillation for Fair Graph Learning under Distribution Shifts
 
-This is the code for the paper "PODD: Pareto-Optimized Dual-Teacher Distillation for Fair Graph Learning under Distribution Shifts", which has been accepted at DASFAA 2026. We are systematically organizing the relevant code for this work.
+This is the code for the paper "PODD: Pareto-Optimized Dual-Teacher Distillation for Fair Graph Learning under Distribution Shifts", which has been accepted at ECMLPKDD 2026. We are systematically organizing the relevant code for this work.
 
 ## 📋 Overview
 
